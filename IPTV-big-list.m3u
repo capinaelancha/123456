@@ -5,11 +5,516 @@
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",ESPAÇO CAMARA
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CANAIS DE FILMES",HBO PLUS
-https://aovivo.multicanais.com/live/hboplushd/tracks-v1a1/2019/06/10/17/22/04-06000.ts
-
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CANAIS DE FILMES",HBO FAMILY
-http://bldtv.vip:8080/live/RobertoFerreira/cMvtReKrBe/5146.m3u8
+#EXTINF:-1,A&E HD
+http://maxptv.ddns.net:25461/Vania/Vania/231
+#EXTINF:-1,A&E SD
+http://maxptv.ddns.net:25461/Vania/Vania/230
+#EXTINF:-1,AMC HD
+http://maxptv.ddns.net:25461/Vania/Vania/229
+#EXTINF:-1,AMC SD
+http://maxptv.ddns.net:25461/Vania/Vania/228
+#EXTINF:-1,Animal Planet HD
+http://maxptv.ddns.net:25461/Vania/Vania/227
+#EXTINF:-1,Animal Planet SD
+http://maxptv.ddns.net:25461/Vania/Vania/232
+#EXTINF:-1,Dog Tv HD
+http://maxptv.ddns.net:25461/Vania/Vania/226
+#EXTINF:-1,Dog Tv SD
+http://maxptv.ddns.net:25461/Vania/Vania/225
+#EXTINF:-1,AXN HD
+http://maxptv.ddns.net:25461/Vania/Vania/224
+#EXTINF:-1,AXN SD
+http://maxptv.ddns.net:25461/Vania/Vania/223
+#EXTINF:-1,BabyTV HD
+http://maxptv.ddns.net:25461/Vania/Vania/222
+#EXTINF:-1,BabyTV SD
+http://maxptv.ddns.net:25461/Vania/Vania/221
+#EXTINF:-1,Band Campinas HD
+http://maxptv.ddns.net:25461/Vania/Vania/220
+#EXTINF:-1,Band Campinas SD
+http://maxptv.ddns.net:25461/Vania/Vania/219
+#EXTINF:-1,Band News HD
+http://maxptv.ddns.net:25461/Vania/Vania/218
+#EXTINF:-1,Band News SD
+http://maxptv.ddns.net:25461/Vania/Vania/217
+#EXTINF:-1,BandSports HD
+http://maxptv.ddns.net:25461/Vania/Vania/216
+#EXTINF:-1,BandSports SD
+http://maxptv.ddns.net:25461/Vania/Vania/215
+#EXTINF:-1,Fish Tv
+http://maxptv.ddns.net:25461/Vania/Vania/214
+#EXTINF:-1,Fish Tv HD
+http://maxptv.ddns.net:25461/Vania/Vania/213
+#EXTINF:-1,BIS HD
+http://maxptv.ddns.net:25461/Vania/Vania/212
+#EXTINF:-1,BIS SD
+http://maxptv.ddns.net:25461/Vania/Vania/211
+#EXTINF:-1,Boomerang HD
+http://maxptv.ddns.net:25461/Vania/Vania/210
+#EXTINF:-1,Boomerang SD
+http://maxptv.ddns.net:25461/Vania/Vania/209
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.ddns.net:25461/Vania/Vania/208
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.ddns.net:25461/Vania/Vania/207
+#EXTINF:-1,Canal Futura HD
+http://maxptv.ddns.net:25461/Vania/Vania/206
+#EXTINF:-1,Canal Futura SD
+http://maxptv.ddns.net:25461/Vania/Vania/205
+#EXTINF:-1,Canal OFF HD
+http://maxptv.ddns.net:25461/Vania/Vania/204
+#EXTINF:-1,Canal OFF SD
+http://maxptv.ddns.net:25461/Vania/Vania/203
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.ddns.net:25461/Vania/Vania/202
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.ddns.net:25461/Vania/Vania/201
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.ddns.net:25461/Vania/Vania/200
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.ddns.net:25461/Vania/Vania/199
+#EXTINF:-1,Cinemax HD
+http://maxptv.ddns.net:25461/Vania/Vania/198
+#EXTINF:-1,Cinemax SD
+http://maxptv.ddns.net:25461/Vania/Vania/197
+#EXTINF:-1,Combate HD
+http://maxptv.ddns.net:25461/Vania/Vania/196
+#EXTINF:-1,Combate SD
+http://maxptv.ddns.net:25461/Vania/Vania/195
+#EXTINF:-1,Comedy Central HD
+http://maxptv.ddns.net:25461/Vania/Vania/194
+#EXTINF:-1,Comedy Central SD
+http://maxptv.ddns.net:25461/Vania/Vania/193
+#EXTINF:-1,Cultura HD
+http://maxptv.ddns.net:25461/Vania/Vania/192
+#EXTINF:-1,Cultura SD
+http://maxptv.ddns.net:25461/Vania/Vania/191
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.ddns.net:25461/Vania/Vania/190
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.ddns.net:25461/Vania/Vania/189
+#EXTINF:-1,Discovery Civilization HD
+http://maxptv.ddns.net:25461/Vania/Vania/188
+#EXTINF:-1,Discovery Civilization SD
+http://maxptv.ddns.net:25461/Vania/Vania/187
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.ddns.net:25461/Vania/Vania/186
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.ddns.net:25461/Vania/Vania/185
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.ddns.net:25461/Vania/Vania/184
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.ddns.net:25461/Vania/Vania/183
+#EXTINF:-1,Discovery Science HD
+http://maxptv.ddns.net:25461/Vania/Vania/182
+#EXTINF:-1,Discovery Science SD
+http://maxptv.ddns.net:25461/Vania/Vania/181
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.ddns.net:25461/Vania/Vania/180
+#EXTINF:-1,Discovery theater SD
+http://maxptv.ddns.net:25461/Vania/Vania/179
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.ddns.net:25461/Vania/Vania/178
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.ddns.net:25461/Vania/Vania/177
+#EXTINF:-1,Discovery World HD
+http://maxptv.ddns.net:25461/Vania/Vania/176
+#EXTINF:-1,Discovery World SD
+http://maxptv.ddns.net:25461/Vania/Vania/175
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.ddns.net:25461/Vania/Vania/174
+#EXTINF:-1,Disney Channel SD
+http://maxptv.ddns.net:25461/Vania/Vania/173
+#EXTINF:-1,Disney Junior HD
+http://maxptv.ddns.net:25461/Vania/Vania/172
+#EXTINF:-1,Disney Junior SD
+http://maxptv.ddns.net:25461/Vania/Vania/171
+#EXTINF:-1,Disney XD HD
+http://maxptv.ddns.net:25461/Vania/Vania/170
+#EXTINF:-1,Disney XD SD
+http://maxptv.ddns.net:25461/Vania/Vania/169
+#EXTINF:-1,E! HD
+http://maxptv.ddns.net:25461/Vania/Vania/168
+#EXTINF:-1,E! SD
+http://maxptv.ddns.net:25461/Vania/Vania/167
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.ddns.net:25461/Vania/Vania/166
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.ddns.net:25461/Vania/Vania/165
+#EXTINF:-1,Espn HD
+http://maxptv.ddns.net:25461/Vania/Vania/160
+#EXTINF:-1,Espn SD
+http://maxptv.ddns.net:25461/Vania/Vania/159
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.ddns.net:25461/Vania/Vania/164
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.ddns.net:25461/Vania/Vania/163
+#EXTINF:-1,Espn 2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/162
+#EXTINF:-1,Espn 2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/161
+#EXTINF:-1,Espn Extra HD
+http://maxptv.ddns.net:25461/Vania/Vania/158
+#EXTINF:-1,Espn Extra SD
+http://maxptv.ddns.net:25461/Vania/Vania/157
+#EXTINF:-1,Film & Arts HD
+http://maxptv.ddns.net:25461/Vania/Vania/156
+#EXTINF:-1,Film & Arts SD
+http://maxptv.ddns.net:25461/Vania/Vania/155
+#EXTINF:-1,FOX HD
+http://maxptv.ddns.net:25461/Vania/Vania/154
+#EXTINF:-1,FOX Life HD
+http://maxptv.ddns.net:25461/Vania/Vania/153
+#EXTINF:-1,FOX Life SD
+http://maxptv.ddns.net:25461/Vania/Vania/152
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/151
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/150
+#EXTINF:-1,Fox Premium HD
+http://maxptv.ddns.net:25461/Vania/Vania/149
+#EXTINF:-1,Fox Premium SD
+http://maxptv.ddns.net:25461/Vania/Vania/148
+#EXTINF:-1,FOX SD
+http://maxptv.ddns.net:25461/Vania/Vania/147
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/146
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/145
+#EXTINF:-1,Fox Sports HD
+http://maxptv.ddns.net:25461/Vania/Vania/144
+#EXTINF:-1,Fox Sports SD
+http://maxptv.ddns.net:25461/Vania/Vania/143
+#EXTINF:-1,FX HD
+http://maxptv.ddns.net:25461/Vania/Vania/142
+#EXTINF:-1,FX SD
+http://maxptv.ddns.net:25461/Vania/Vania/141
+#EXTINF:-1,GloboNews HD
+http://maxptv.ddns.net:25461/Vania/Vania/140
+#EXTINF:-1,GloboNews SD
+http://maxptv.ddns.net:25461/Vania/Vania/139
+#EXTINF:-1,Gloob HD
+http://maxptv.ddns.net:25461/Vania/Vania/138
+#EXTINF:-1,Gloob SD
+http://maxptv.ddns.net:25461/Vania/Vania/137
+#EXTINF:-1,GNT HD
+http://maxptv.ddns.net:25461/Vania/Vania/136
+#EXTINF:-1,GNT SD
+http://maxptv.ddns.net:25461/Vania/Vania/135
+#EXTINF:-1,H2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/134
+#EXTINF:-1,H2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/133
+#EXTINF:-1,HBO 2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/132
+#EXTINF:-1,HBO 2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/131
+#EXTINF:-1,HBO Family HD
+http://maxptv.ddns.net:25461/Vania/Vania/130
+#EXTINF:-1,HBO Family SD
+http://maxptv.ddns.net:25461/Vania/Vania/129
+#EXTINF:-1,HBO HD
+http://maxptv.ddns.net:25461/Vania/Vania/128
+#EXTINF:-1,Band Sp HD
+http://maxptv.ddns.net:25461/Vania/Vania/127
+#EXTINF:-1,Band Sp  SD
+http://maxptv.ddns.net:25461/Vania/Vania/126
+#EXTINF:-1,HBO Plus HD
+http://maxptv.ddns.net:25461/Vania/Vania/125
+#EXTINF:-1,HBO Plus SD
+http://maxptv.ddns.net:25461/Vania/Vania/124
+#EXTINF:-1,HBO SD
+http://maxptv.ddns.net:25461/Vania/Vania/123
+#EXTINF:-1,HBO Signature HD
+http://maxptv.ddns.net:25461/Vania/Vania/122
+#EXTINF:-1,HBO Signature SD
+http://maxptv.ddns.net:25461/Vania/Vania/121
+#EXTINF:-1,History Channel HD
+http://maxptv.ddns.net:25461/Vania/Vania/120
+#EXTINF:-1,History Channel SD
+http://maxptv.ddns.net:25461/Vania/Vania/119
+#EXTINF:-1,ID HD
+http://maxptv.ddns.net:25461/Vania/Vania/118
+#EXTINF:-1,ID SD
+http://maxptv.ddns.net:25461/Vania/Vania/117
+#EXTINF:-1,Lifetime HD
+http://maxptv.ddns.net:25461/Vania/Vania/116
+#EXTINF:-1,Lifetime SD
+http://maxptv.ddns.net:25461/Vania/Vania/115
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.ddns.net:25461/Vania/Vania/114
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.ddns.net:25461/Vania/Vania/113
+#EXTINF:-1,Max HD
+http://maxptv.ddns.net:25461/Vania/Vania/112
+#EXTINF:-1,Record News HD
+http://maxptv.ddns.net:25461/Vania/Vania/111
+#EXTINF:-1,Record News SD
+http://maxptv.ddns.net:25461/Vania/Vania/110
+#EXTINF:-1,MAX Prime HD
+http://maxptv.ddns.net:25461/Vania/Vania/109
+#EXTINF:-1,MAX Prime SD
+http://maxptv.ddns.net:25461/Vania/Vania/108
+#EXTINF:-1,Max SD
+http://maxptv.ddns.net:25461/Vania/Vania/107
+#EXTINF:-1,Max UP HD
+http://maxptv.ddns.net:25461/Vania/Vania/106
+#EXTINF:-1,Max UP SD
+http://maxptv.ddns.net:25461/Vania/Vania/105
+#EXTINF:-1,Megapix HD
+http://maxptv.ddns.net:25461/Vania/Vania/104
+#EXTINF:-1,Megapix SD
+http://maxptv.ddns.net:25461/Vania/Vania/103
+#EXTINF:-1,MTV HD
+http://maxptv.ddns.net:25461/Vania/Vania/102
+#EXTINF:-1,MTV SD
+http://maxptv.ddns.net:25461/Vania/Vania/101
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.ddns.net:25461/Vania/Vania/100
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.ddns.net:25461/Vania/Vania/99
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.ddns.net:25461/Vania/Vania/98
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.ddns.net:25461/Vania/Vania/97
+#EXTINF:-1,NatGeo Wild HD
+http://maxptv.ddns.net:25461/Vania/Vania/96
+#EXTINF:-1,NatGeo Wild SD
+http://maxptv.ddns.net:25461/Vania/Vania/95
+#EXTINF:-1,National Geographic HD
+http://maxptv.ddns.net:25461/Vania/Vania/94
+#EXTINF:-1,National Geographic SD
+http://maxptv.ddns.net:25461/Vania/Vania/93
+#EXTINF:-1,NHK HD
+http://maxptv.ddns.net:25461/Vania/Vania/92
+#EXTINF:-1,NHK SD
+http://maxptv.ddns.net:25461/Vania/Vania/91
+#EXTINF:-1,Nick Jr HD
+http://maxptv.ddns.net:25461/Vania/Vania/90
+#EXTINF:-1,Nick Jr SD
+http://maxptv.ddns.net:25461/Vania/Vania/89
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.ddns.net:25461/Vania/Vania/88
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.ddns.net:25461/Vania/Vania/87
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.ddns.net:25461/Vania/Vania/86
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.ddns.net:25461/Vania/Vania/85
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.ddns.net:25461/Vania/Vania/82
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.ddns.net:25461/Vania/Vania/81
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/80
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/79
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.ddns.net:25461/Vania/Vania/78
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.ddns.net:25461/Vania/Vania/77
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.ddns.net:25461/Vania/Vania/76
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.ddns.net:25461/Vania/Vania/75
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.ddns.net:25461/Vania/Vania/74
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.ddns.net:25461/Vania/Vania/73
+#EXTINF:-1,Premiere 6 HD
+http://maxptv.ddns.net:25461/Vania/Vania/72
+#EXTINF:-1,Premiere 6 SD
+http://maxptv.ddns.net:25461/Vania/Vania/71
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.ddns.net:25461/Vania/Vania/70
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.ddns.net:25461/Vania/Vania/69
+#EXTINF:-1,Globo Sp HD
+http://maxptv.ddns.net:25461/Vania/Vania/68
+#EXTINF:-1,Globo Sp SD
+http://maxptv.ddns.net:25461/Vania/Vania/67
+#EXTINF:-1,RÃ¡-Tim-Bum HD
+http://maxptv.ddns.net:25461/Vania/Vania/66
+#EXTINF:-1,RÃ¡-Tim-Bum SD
+http://maxptv.ddns.net:25461/Vania/Vania/65
+#EXTINF:-1,Record HD
+http://maxptv.ddns.net:25461/Vania/Vania/64
+#EXTINF:-1,Record SD
+http://maxptv.ddns.net:25461/Vania/Vania/63
+#EXTINF:-1,Rede Vida HD
+http://maxptv.ddns.net:25461/Vania/Vania/62
+#EXTINF:-1,Rede Vida SD
+http://maxptv.ddns.net:25461/Vania/Vania/61
+#EXTINF:-1,RedeTV HD
+http://maxptv.ddns.net:25461/Vania/Vania/60
+#EXTINF:-1,RedeTV SD
+http://maxptv.ddns.net:25461/Vania/Vania/59
+#EXTINF:-1,SBT HD
+http://maxptv.ddns.net:25461/Vania/Vania/58
+#EXTINF:-1,SBT SD
+http://maxptv.ddns.net:25461/Vania/Vania/57
+#EXTINF:-1,Sony HD
+http://maxptv.ddns.net:25461/Vania/Vania/52
+#EXTINF:-1,Sony SD
+http://maxptv.ddns.net:25461/Vania/Vania/51
+#EXTINF:-1,Space HD
+http://maxptv.ddns.net:25461/Vania/Vania/50
+#EXTINF:-1,Space SD
+http://maxptv.ddns.net:25461/Vania/Vania/49
+#EXTINF:-1,SporTV HD
+http://maxptv.ddns.net:25461/Vania/Vania/48
+#EXTINF:-1,SporTV SD
+http://maxptv.ddns.net:25461/Vania/Vania/47
+#EXTINF:-1,SporTV2 HD
+http://maxptv.ddns.net:25461/Vania/Vania/46
+#EXTINF:-1,SporTV2 SD
+http://maxptv.ddns.net:25461/Vania/Vania/45
+#EXTINF:-1,SporTV3 HD
+http://maxptv.ddns.net:25461/Vania/Vania/44
+#EXTINF:-1,SporTV3 SD
+http://maxptv.ddns.net:25461/Vania/Vania/43
+#EXTINF:-1,Studio Universal HD
+http://maxptv.ddns.net:25461/Vania/Vania/42
+#EXTINF:-1,Studio Universal SD
+http://maxptv.ddns.net:25461/Vania/Vania/41
+#EXTINF:-1,Syfy HD
+http://maxptv.ddns.net:25461/Vania/Vania/40
+#EXTINF:-1,Syfy SD
+http://maxptv.ddns.net:25461/Vania/Vania/39
+#EXTINF:-1,TBS HD
+http://maxptv.ddns.net:25461/Vania/Vania/38
+#EXTINF:-1,TBS SD
+http://maxptv.ddns.net:25461/Vania/Vania/37
+#EXTINF:-1,TCM HD
+http://maxptv.ddns.net:25461/Vania/Vania/36
+#EXTINF:-1,TCM SD
+http://maxptv.ddns.net:25461/Vania/Vania/35
+#EXTINF:-1,Telecine Action HD
+http://maxptv.ddns.net:25461/Vania/Vania/34
+#EXTINF:-1,Telecine Action SD
+http://maxptv.ddns.net:25461/Vania/Vania/33
+#EXTINF:-1,Telecine Cult SD
+http://maxptv.ddns.net:25461/Vania/Vania/32
+#EXTINF:-1,Telecine Cult  HD
+http://maxptv.ddns.net:25461/Vania/Vania/31
+#EXTINF:-1,Telecine Fun HD
+http://maxptv.ddns.net:25461/Vania/Vania/30
+#EXTINF:-1,Telecine Fun SD
+http://maxptv.ddns.net:25461/Vania/Vania/29
+#EXTINF:-1,Telecine Pipoca HD
+http://maxptv.ddns.net:25461/Vania/Vania/28
+#EXTINF:-1,Telecine Pipoca SD
+http://maxptv.ddns.net:25461/Vania/Vania/27
+#EXTINF:-1,Telecine Premium HD
+http://maxptv.ddns.net:25461/Vania/Vania/26
+#EXTINF:-1,Telecine Premium SD
+http://maxptv.ddns.net:25461/Vania/Vania/25
+#EXTINF:-1,Telecine Touch HD
+http://maxptv.ddns.net:25461/Vania/Vania/24
+#EXTINF:-1,Telecine Touch SD
+http://maxptv.ddns.net:25461/Vania/Vania/23
+#EXTINF:-1,TLC HD
+http://maxptv.ddns.net:25461/Vania/Vania/22
+#EXTINF:-1,TLC SD
+http://maxptv.ddns.net:25461/Vania/Vania/21
+#EXTINF:-1,TNT HD
+http://maxptv.ddns.net:25461/Vania/Vania/20
+#EXTINF:-1,TNT SD
+http://maxptv.ddns.net:25461/Vania/Vania/19
+#EXTINF:-1,TNT Series HD
+http://maxptv.ddns.net:25461/Vania/Vania/18
+#EXTINF:-1,TNT Series SD
+http://maxptv.ddns.net:25461/Vania/Vania/17
+#EXTINF:-1,Tooncast HD
+http://maxptv.ddns.net:25461/Vania/Vania/16
+#EXTINF:-1,Tooncast SD
+http://maxptv.ddns.net:25461/Vania/Vania/15
+#EXTINF:-1,TV Aparecida HD
+http://maxptv.ddns.net:25461/Vania/Vania/14
+#EXTINF:-1,TV Aparecida SD
+http://maxptv.ddns.net:25461/Vania/Vania/13
+#EXTINF:-1,Universal Channel HD
+http://maxptv.ddns.net:25461/Vania/Vania/12
+#EXTINF:-1,Universal Channel SD
+http://maxptv.ddns.net:25461/Vania/Vania/11
+#EXTINF:-1,VH1 HD
+http://maxptv.ddns.net:25461/Vania/Vania/8
+#EXTINF:-1,VH1 SD
+http://maxptv.ddns.net:25461/Vania/Vania/7
+#EXTINF:-1,Viva HD
+http://maxptv.ddns.net:25461/Vania/Vania/6
+#EXTINF:-1,Viva SD
+http://maxptv.ddns.net:25461/Vania/Vania/5
+#EXTINF:-1,Warner Bros HD
+http://maxptv.ddns.net:25461/Vania/Vania/4
+#EXTINF:-1,Warner Bros SD
+http://maxptv.ddns.net:25461/Vania/Vania/3
+#EXTINF:-1,Zoomoo HD
+http://maxptv.ddns.net:25461/Vania/Vania/2
+#EXTINF:-1,Zoomoo SD
+http://maxptv.ddns.net:25461/Vania/Vania/1
+#EXTINF:-1,Food Network HD
+http://maxptv.ddns.net:25461/Vania/Vania/333
+#EXTINF:-1,Food Network SD
+http://maxptv.ddns.net:25461/Vania/Vania/334
+#EXTINF:-1,EPTV Campinas HD Alternativo
+http://maxptv.ddns.net:25461/Vania/Vania/475
+#EXTINF:-1,EPTV Campinas HD Alternativo 2
+http://maxptv.ddns.net:25461/Vania/Vania/476
+#EXTINF:-1,SBT HD Alternativo
+http://maxptv.ddns.net:25461/Vania/Vania/477
+#EXTINF:-1,Combate HD 2
+http://maxptv.ddns.net:25461/Vania/Vania/573
+#EXTINF:-1,Band - RibeirÃ£o Preto HD
+http://maxptv.ddns.net:25461/Vania/Vania/699
+#EXTINF:-1,Band - RibeirÃ£o Preto SD
+http://maxptv.ddns.net:25461/Vania/Vania/698
+#EXTINF:-1,Globo - EPTV R Preto HD
+http://maxptv.ddns.net:25461/Vania/Vania/701
+#EXTINF:-1,Globo - EPTV R Preto SD
+http://maxptv.ddns.net:25461/Vania/Vania/700
+#EXTINF:-1,Globo - NSC TV Floripa HD
+http://maxptv.ddns.net:25461/Vania/Vania/697
+#EXTINF:-1,Desenhos Animados
+http://maxptv.ddns.net:25461/Vania/Vania/925
+#EXTINF:-1,Mr Bean 24 hrs
+https://www.youtube.com/watch?v=bjbppIHS1Ew
+#EXTINF:-1,Caverna Do DragÃ£o
+https://www.youtube.com/watch?v=dywRyiCH09k
+#EXTINF:-1,Retro Music HD
+http://maxptv.ddns.net:25461/Vania/Vania/1183
+#EXTINF:-1,Rede Minas HD
+http://maxptv.ddns.net:25461/Vania/Vania/1184
+#EXTINF:-1,TV na Ilha
+http://maxptv.ddns.net:25461/Vania/Vania/1187
+#EXTINF:-1,Gospel Cartoon
+http://maxptv.ddns.net:25461/Vania/Vania/1188
+#EXTINF:-1,Gospel Movie TV
+http://maxptv.ddns.net:25461/Vania/Vania/1189
+#EXTINF:-1,TV SÃ‰CULO 21
+http://maxptv.ddns.net:25461/Vania/Vania/1192
+#EXTINF:-1,Desenhos BÃ­blicos
+http://maxptv.ddns.net:25461/Vania/Vania/926
+#EXTINF:-1,Desenhos ClÃ¡ssicos TV
+https://www.youtube.com/watch?time_continue=10&v=GUy-JgS7eyc
+#EXTINF:-1,Galinha Pintadinha
+https://youtu.be/EA69fK4DJPk
+#EXTINF:-1,Pocoyo
+https://www.youtube.com/watch?v=uPDB5I9wfp8
+#EXTINF:-1,RedeTV HD Alternativo
+http://maxptv.ddns.net:25461/Vania/Vania/1210
+#EXTINF:-1,Combate HD Alternativo
+http://maxptv.ddns.net:25461/Vania/Vania/1304
+#EXTINF:-1,Combate SD Alternativo
+http://maxptv.ddns.net:25461/Vania/Vania/1305
+#EXTINF:-1,Discovery Channel Alternativo HD
+http://maxptv.ddns.net:25461/Vania/Vania/1380
+#EXTINF:-1,Premiere 1 HD Alternetivo
+http://maxptv.ddns.net:25461/Vania/Vania/1129
+#EXTINF:-1,Premiere 3 HD Alternetivo
+http://maxptv.ddns.net:25461/Vania/Vania/1130
+#EXTINF:-1,Premiere 4 HD Alternetivo
+http://maxptv.ddns.net:25461/Vania/Vania/1131
 
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GABRIEL LISTA
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
