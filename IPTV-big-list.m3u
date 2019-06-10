@@ -5,516 +5,237 @@
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",ESPAÇO CAMARA
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
-#EXTINF:-1,A&E HD
-http://maxptv.ddns.net:25461/Vania/Vania/231
-#EXTINF:-1,A&E SD
-http://maxptv.ddns.net:25461/Vania/Vania/230
-#EXTINF:-1,AMC HD
-http://maxptv.ddns.net:25461/Vania/Vania/229
-#EXTINF:-1,AMC SD
-http://maxptv.ddns.net:25461/Vania/Vania/228
-#EXTINF:-1,Animal Planet HD
-http://maxptv.ddns.net:25461/Vania/Vania/227
-#EXTINF:-1,Animal Planet SD
-http://maxptv.ddns.net:25461/Vania/Vania/232
-#EXTINF:-1,Dog Tv HD
-http://maxptv.ddns.net:25461/Vania/Vania/226
-#EXTINF:-1,Dog Tv SD
-http://maxptv.ddns.net:25461/Vania/Vania/225
-#EXTINF:-1,AXN HD
-http://maxptv.ddns.net:25461/Vania/Vania/224
-#EXTINF:-1,AXN SD
-http://maxptv.ddns.net:25461/Vania/Vania/223
-#EXTINF:-1,BabyTV HD
-http://maxptv.ddns.net:25461/Vania/Vania/222
-#EXTINF:-1,BabyTV SD
-http://maxptv.ddns.net:25461/Vania/Vania/221
-#EXTINF:-1,Band Campinas HD
-http://maxptv.ddns.net:25461/Vania/Vania/220
-#EXTINF:-1,Band Campinas SD
-http://maxptv.ddns.net:25461/Vania/Vania/219
-#EXTINF:-1,Band News HD
-http://maxptv.ddns.net:25461/Vania/Vania/218
-#EXTINF:-1,Band News SD
-http://maxptv.ddns.net:25461/Vania/Vania/217
-#EXTINF:-1,BandSports HD
-http://maxptv.ddns.net:25461/Vania/Vania/216
-#EXTINF:-1,BandSports SD
-http://maxptv.ddns.net:25461/Vania/Vania/215
-#EXTINF:-1,Fish Tv
-http://maxptv.ddns.net:25461/Vania/Vania/214
-#EXTINF:-1,Fish Tv HD
-http://maxptv.ddns.net:25461/Vania/Vania/213
-#EXTINF:-1,BIS HD
-http://maxptv.ddns.net:25461/Vania/Vania/212
-#EXTINF:-1,BIS SD
-http://maxptv.ddns.net:25461/Vania/Vania/211
-#EXTINF:-1,Boomerang HD
-http://maxptv.ddns.net:25461/Vania/Vania/210
-#EXTINF:-1,Boomerang SD
-http://maxptv.ddns.net:25461/Vania/Vania/209
-#EXTINF:-1,Canal Curta! HD
-http://maxptv.ddns.net:25461/Vania/Vania/208
-#EXTINF:-1,Canal Curta! SD
-http://maxptv.ddns.net:25461/Vania/Vania/207
-#EXTINF:-1,Canal Futura HD
-http://maxptv.ddns.net:25461/Vania/Vania/206
-#EXTINF:-1,Canal Futura SD
-http://maxptv.ddns.net:25461/Vania/Vania/205
-#EXTINF:-1,Canal OFF HD
-http://maxptv.ddns.net:25461/Vania/Vania/204
-#EXTINF:-1,Canal OFF SD
-http://maxptv.ddns.net:25461/Vania/Vania/203
-#EXTINF:-1,Canal Woohoo HD
-http://maxptv.ddns.net:25461/Vania/Vania/202
-#EXTINF:-1,Canal Woohoo SD
-http://maxptv.ddns.net:25461/Vania/Vania/201
-#EXTINF:-1,Cartoon Network HD
-http://maxptv.ddns.net:25461/Vania/Vania/200
-#EXTINF:-1,Cartoon Network SD
-http://maxptv.ddns.net:25461/Vania/Vania/199
-#EXTINF:-1,Cinemax HD
-http://maxptv.ddns.net:25461/Vania/Vania/198
-#EXTINF:-1,Cinemax SD
-http://maxptv.ddns.net:25461/Vania/Vania/197
-#EXTINF:-1,Combate HD
-http://maxptv.ddns.net:25461/Vania/Vania/196
-#EXTINF:-1,Combate SD
-http://maxptv.ddns.net:25461/Vania/Vania/195
-#EXTINF:-1,Comedy Central HD
-http://maxptv.ddns.net:25461/Vania/Vania/194
-#EXTINF:-1,Comedy Central SD
-http://maxptv.ddns.net:25461/Vania/Vania/193
-#EXTINF:-1,Cultura HD
-http://maxptv.ddns.net:25461/Vania/Vania/192
-#EXTINF:-1,Cultura SD
-http://maxptv.ddns.net:25461/Vania/Vania/191
-#EXTINF:-1,Discovery Channel HD
-http://maxptv.ddns.net:25461/Vania/Vania/190
-#EXTINF:-1,Discovery Channel SD
-http://maxptv.ddns.net:25461/Vania/Vania/189
-#EXTINF:-1,Discovery Civilization HD
-http://maxptv.ddns.net:25461/Vania/Vania/188
-#EXTINF:-1,Discovery Civilization SD
-http://maxptv.ddns.net:25461/Vania/Vania/187
-#EXTINF:-1,Discovery Home & Health HD
-http://maxptv.ddns.net:25461/Vania/Vania/186
-#EXTINF:-1,Discovery Home & Health SD
-http://maxptv.ddns.net:25461/Vania/Vania/185
-#EXTINF:-1,Discovery Kids HD
-http://maxptv.ddns.net:25461/Vania/Vania/184
-#EXTINF:-1,Discovery Kids SD
-http://maxptv.ddns.net:25461/Vania/Vania/183
-#EXTINF:-1,Discovery Science HD
-http://maxptv.ddns.net:25461/Vania/Vania/182
-#EXTINF:-1,Discovery Science SD
-http://maxptv.ddns.net:25461/Vania/Vania/181
-#EXTINF:-1,Discovery Theater HD
-http://maxptv.ddns.net:25461/Vania/Vania/180
-#EXTINF:-1,Discovery theater SD
-http://maxptv.ddns.net:25461/Vania/Vania/179
-#EXTINF:-1,Discovery Turbo HD
-http://maxptv.ddns.net:25461/Vania/Vania/178
-#EXTINF:-1,Discovery Turbo SD
-http://maxptv.ddns.net:25461/Vania/Vania/177
-#EXTINF:-1,Discovery World HD
-http://maxptv.ddns.net:25461/Vania/Vania/176
-#EXTINF:-1,Discovery World SD
-http://maxptv.ddns.net:25461/Vania/Vania/175
-#EXTINF:-1,Disney Channel  HD
-http://maxptv.ddns.net:25461/Vania/Vania/174
-#EXTINF:-1,Disney Channel SD
-http://maxptv.ddns.net:25461/Vania/Vania/173
-#EXTINF:-1,Disney Junior HD
-http://maxptv.ddns.net:25461/Vania/Vania/172
-#EXTINF:-1,Disney Junior SD
-http://maxptv.ddns.net:25461/Vania/Vania/171
-#EXTINF:-1,Disney XD HD
-http://maxptv.ddns.net:25461/Vania/Vania/170
-#EXTINF:-1,Disney XD SD
-http://maxptv.ddns.net:25461/Vania/Vania/169
-#EXTINF:-1,E! HD
-http://maxptv.ddns.net:25461/Vania/Vania/168
-#EXTINF:-1,E! SD
-http://maxptv.ddns.net:25461/Vania/Vania/167
-#EXTINF:-1,EPTV Campinas HD
-http://maxptv.ddns.net:25461/Vania/Vania/166
-#EXTINF:-1,EPTV Campinas SD
-http://maxptv.ddns.net:25461/Vania/Vania/165
-#EXTINF:-1,Espn HD
-http://maxptv.ddns.net:25461/Vania/Vania/160
-#EXTINF:-1,Espn SD
-http://maxptv.ddns.net:25461/Vania/Vania/159
-#EXTINF:-1,Espn Brasil HD
-http://maxptv.ddns.net:25461/Vania/Vania/164
-#EXTINF:-1,Espn Brasil SD
-http://maxptv.ddns.net:25461/Vania/Vania/163
-#EXTINF:-1,Espn 2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/162
-#EXTINF:-1,Espn 2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/161
-#EXTINF:-1,Espn Extra HD
-http://maxptv.ddns.net:25461/Vania/Vania/158
-#EXTINF:-1,Espn Extra SD
-http://maxptv.ddns.net:25461/Vania/Vania/157
-#EXTINF:-1,Film & Arts HD
-http://maxptv.ddns.net:25461/Vania/Vania/156
-#EXTINF:-1,Film & Arts SD
-http://maxptv.ddns.net:25461/Vania/Vania/155
-#EXTINF:-1,FOX HD
-http://maxptv.ddns.net:25461/Vania/Vania/154
-#EXTINF:-1,FOX Life HD
-http://maxptv.ddns.net:25461/Vania/Vania/153
-#EXTINF:-1,FOX Life SD
-http://maxptv.ddns.net:25461/Vania/Vania/152
-#EXTINF:-1,Fox Premium 2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/151
-#EXTINF:-1,Fox Premium 2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/150
-#EXTINF:-1,Fox Premium HD
-http://maxptv.ddns.net:25461/Vania/Vania/149
-#EXTINF:-1,Fox Premium SD
-http://maxptv.ddns.net:25461/Vania/Vania/148
-#EXTINF:-1,FOX SD
-http://maxptv.ddns.net:25461/Vania/Vania/147
-#EXTINF:-1,Fox Sports 2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/146
-#EXTINF:-1,Fox Sports 2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/145
-#EXTINF:-1,Fox Sports HD
-http://maxptv.ddns.net:25461/Vania/Vania/144
-#EXTINF:-1,Fox Sports SD
-http://maxptv.ddns.net:25461/Vania/Vania/143
-#EXTINF:-1,FX HD
-http://maxptv.ddns.net:25461/Vania/Vania/142
-#EXTINF:-1,FX SD
-http://maxptv.ddns.net:25461/Vania/Vania/141
-#EXTINF:-1,GloboNews HD
-http://maxptv.ddns.net:25461/Vania/Vania/140
-#EXTINF:-1,GloboNews SD
-http://maxptv.ddns.net:25461/Vania/Vania/139
-#EXTINF:-1,Gloob HD
-http://maxptv.ddns.net:25461/Vania/Vania/138
-#EXTINF:-1,Gloob SD
-http://maxptv.ddns.net:25461/Vania/Vania/137
-#EXTINF:-1,GNT HD
-http://maxptv.ddns.net:25461/Vania/Vania/136
-#EXTINF:-1,GNT SD
-http://maxptv.ddns.net:25461/Vania/Vania/135
-#EXTINF:-1,H2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/134
-#EXTINF:-1,H2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/133
-#EXTINF:-1,HBO 2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/132
-#EXTINF:-1,HBO 2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/131
-#EXTINF:-1,HBO Family HD
-http://maxptv.ddns.net:25461/Vania/Vania/130
-#EXTINF:-1,HBO Family SD
-http://maxptv.ddns.net:25461/Vania/Vania/129
-#EXTINF:-1,HBO HD
-http://maxptv.ddns.net:25461/Vania/Vania/128
-#EXTINF:-1,Band Sp HD
-http://maxptv.ddns.net:25461/Vania/Vania/127
-#EXTINF:-1,Band Sp  SD
-http://maxptv.ddns.net:25461/Vania/Vania/126
-#EXTINF:-1,HBO Plus HD
-http://maxptv.ddns.net:25461/Vania/Vania/125
-#EXTINF:-1,HBO Plus SD
-http://maxptv.ddns.net:25461/Vania/Vania/124
-#EXTINF:-1,HBO SD
-http://maxptv.ddns.net:25461/Vania/Vania/123
-#EXTINF:-1,HBO Signature HD
-http://maxptv.ddns.net:25461/Vania/Vania/122
-#EXTINF:-1,HBO Signature SD
-http://maxptv.ddns.net:25461/Vania/Vania/121
-#EXTINF:-1,History Channel HD
-http://maxptv.ddns.net:25461/Vania/Vania/120
-#EXTINF:-1,History Channel SD
-http://maxptv.ddns.net:25461/Vania/Vania/119
-#EXTINF:-1,ID HD
-http://maxptv.ddns.net:25461/Vania/Vania/118
-#EXTINF:-1,ID SD
-http://maxptv.ddns.net:25461/Vania/Vania/117
-#EXTINF:-1,Lifetime HD
-http://maxptv.ddns.net:25461/Vania/Vania/116
-#EXTINF:-1,Lifetime SD
-http://maxptv.ddns.net:25461/Vania/Vania/115
-#EXTINF:-1,Mais Globosat HD
-http://maxptv.ddns.net:25461/Vania/Vania/114
-#EXTINF:-1,Mais Globosat SD
-http://maxptv.ddns.net:25461/Vania/Vania/113
-#EXTINF:-1,Max HD
-http://maxptv.ddns.net:25461/Vania/Vania/112
-#EXTINF:-1,Record News HD
-http://maxptv.ddns.net:25461/Vania/Vania/111
-#EXTINF:-1,Record News SD
-http://maxptv.ddns.net:25461/Vania/Vania/110
-#EXTINF:-1,MAX Prime HD
-http://maxptv.ddns.net:25461/Vania/Vania/109
-#EXTINF:-1,MAX Prime SD
-http://maxptv.ddns.net:25461/Vania/Vania/108
-#EXTINF:-1,Max SD
-http://maxptv.ddns.net:25461/Vania/Vania/107
-#EXTINF:-1,Max UP HD
-http://maxptv.ddns.net:25461/Vania/Vania/106
-#EXTINF:-1,Max UP SD
-http://maxptv.ddns.net:25461/Vania/Vania/105
-#EXTINF:-1,Megapix HD
-http://maxptv.ddns.net:25461/Vania/Vania/104
-#EXTINF:-1,Megapix SD
-http://maxptv.ddns.net:25461/Vania/Vania/103
-#EXTINF:-1,MTV HD
-http://maxptv.ddns.net:25461/Vania/Vania/102
-#EXTINF:-1,MTV SD
-http://maxptv.ddns.net:25461/Vania/Vania/101
-#EXTINF:-1,MULTISHOW HD
-http://maxptv.ddns.net:25461/Vania/Vania/100
-#EXTINF:-1,MULTISHOW SD
-http://maxptv.ddns.net:25461/Vania/Vania/99
-#EXTINF:-1,Nat Geo Kids HD
-http://maxptv.ddns.net:25461/Vania/Vania/98
-#EXTINF:-1,Nat Geo Kids SD
-http://maxptv.ddns.net:25461/Vania/Vania/97
-#EXTINF:-1,NatGeo Wild HD
-http://maxptv.ddns.net:25461/Vania/Vania/96
-#EXTINF:-1,NatGeo Wild SD
-http://maxptv.ddns.net:25461/Vania/Vania/95
-#EXTINF:-1,National Geographic HD
-http://maxptv.ddns.net:25461/Vania/Vania/94
-#EXTINF:-1,National Geographic SD
-http://maxptv.ddns.net:25461/Vania/Vania/93
-#EXTINF:-1,NHK HD
-http://maxptv.ddns.net:25461/Vania/Vania/92
-#EXTINF:-1,NHK SD
-http://maxptv.ddns.net:25461/Vania/Vania/91
-#EXTINF:-1,Nick Jr HD
-http://maxptv.ddns.net:25461/Vania/Vania/90
-#EXTINF:-1,Nick Jr SD
-http://maxptv.ddns.net:25461/Vania/Vania/89
-#EXTINF:-1,Nickelodeon HD
-http://maxptv.ddns.net:25461/Vania/Vania/88
-#EXTINF:-1,Nickelodeon SD
-http://maxptv.ddns.net:25461/Vania/Vania/87
-#EXTINF:-1,Paramount Channel HD
-http://maxptv.ddns.net:25461/Vania/Vania/86
-#EXTINF:-1,Paramount Channel SD
-http://maxptv.ddns.net:25461/Vania/Vania/85
-#EXTINF:-1,Premiere 1 HD
-http://maxptv.ddns.net:25461/Vania/Vania/82
-#EXTINF:-1,Premiere 1 SD
-http://maxptv.ddns.net:25461/Vania/Vania/81
-#EXTINF:-1,Premiere 2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/80
-#EXTINF:-1,Premiere 2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/79
-#EXTINF:-1,Premiere 3 HD
-http://maxptv.ddns.net:25461/Vania/Vania/78
-#EXTINF:-1,Premiere 3 SD
-http://maxptv.ddns.net:25461/Vania/Vania/77
-#EXTINF:-1,Premiere 4 HD
-http://maxptv.ddns.net:25461/Vania/Vania/76
-#EXTINF:-1,Premiere 4 SD
-http://maxptv.ddns.net:25461/Vania/Vania/75
-#EXTINF:-1,Premiere 5 HD
-http://maxptv.ddns.net:25461/Vania/Vania/74
-#EXTINF:-1,Premiere 5 SD
-http://maxptv.ddns.net:25461/Vania/Vania/73
-#EXTINF:-1,Premiere 6 HD
-http://maxptv.ddns.net:25461/Vania/Vania/72
-#EXTINF:-1,Premiere 6 SD
-http://maxptv.ddns.net:25461/Vania/Vania/71
-#EXTINF:-1,Premiere 7 HD
-http://maxptv.ddns.net:25461/Vania/Vania/70
-#EXTINF:-1,Premiere 7 SD
-http://maxptv.ddns.net:25461/Vania/Vania/69
-#EXTINF:-1,Globo Sp HD
-http://maxptv.ddns.net:25461/Vania/Vania/68
-#EXTINF:-1,Globo Sp SD
-http://maxptv.ddns.net:25461/Vania/Vania/67
-#EXTINF:-1,RÃ¡-Tim-Bum HD
-http://maxptv.ddns.net:25461/Vania/Vania/66
-#EXTINF:-1,RÃ¡-Tim-Bum SD
-http://maxptv.ddns.net:25461/Vania/Vania/65
-#EXTINF:-1,Record HD
-http://maxptv.ddns.net:25461/Vania/Vania/64
-#EXTINF:-1,Record SD
-http://maxptv.ddns.net:25461/Vania/Vania/63
-#EXTINF:-1,Rede Vida HD
-http://maxptv.ddns.net:25461/Vania/Vania/62
-#EXTINF:-1,Rede Vida SD
-http://maxptv.ddns.net:25461/Vania/Vania/61
-#EXTINF:-1,RedeTV HD
-http://maxptv.ddns.net:25461/Vania/Vania/60
-#EXTINF:-1,RedeTV SD
-http://maxptv.ddns.net:25461/Vania/Vania/59
-#EXTINF:-1,SBT HD
-http://maxptv.ddns.net:25461/Vania/Vania/58
-#EXTINF:-1,SBT SD
-http://maxptv.ddns.net:25461/Vania/Vania/57
-#EXTINF:-1,Sony HD
-http://maxptv.ddns.net:25461/Vania/Vania/52
-#EXTINF:-1,Sony SD
-http://maxptv.ddns.net:25461/Vania/Vania/51
-#EXTINF:-1,Space HD
-http://maxptv.ddns.net:25461/Vania/Vania/50
-#EXTINF:-1,Space SD
-http://maxptv.ddns.net:25461/Vania/Vania/49
-#EXTINF:-1,SporTV HD
-http://maxptv.ddns.net:25461/Vania/Vania/48
-#EXTINF:-1,SporTV SD
-http://maxptv.ddns.net:25461/Vania/Vania/47
-#EXTINF:-1,SporTV2 HD
-http://maxptv.ddns.net:25461/Vania/Vania/46
-#EXTINF:-1,SporTV2 SD
-http://maxptv.ddns.net:25461/Vania/Vania/45
-#EXTINF:-1,SporTV3 HD
-http://maxptv.ddns.net:25461/Vania/Vania/44
-#EXTINF:-1,SporTV3 SD
-http://maxptv.ddns.net:25461/Vania/Vania/43
-#EXTINF:-1,Studio Universal HD
-http://maxptv.ddns.net:25461/Vania/Vania/42
-#EXTINF:-1,Studio Universal SD
-http://maxptv.ddns.net:25461/Vania/Vania/41
-#EXTINF:-1,Syfy HD
-http://maxptv.ddns.net:25461/Vania/Vania/40
-#EXTINF:-1,Syfy SD
-http://maxptv.ddns.net:25461/Vania/Vania/39
-#EXTINF:-1,TBS HD
-http://maxptv.ddns.net:25461/Vania/Vania/38
-#EXTINF:-1,TBS SD
-http://maxptv.ddns.net:25461/Vania/Vania/37
-#EXTINF:-1,TCM HD
-http://maxptv.ddns.net:25461/Vania/Vania/36
-#EXTINF:-1,TCM SD
-http://maxptv.ddns.net:25461/Vania/Vania/35
-#EXTINF:-1,Telecine Action HD
-http://maxptv.ddns.net:25461/Vania/Vania/34
-#EXTINF:-1,Telecine Action SD
-http://maxptv.ddns.net:25461/Vania/Vania/33
-#EXTINF:-1,Telecine Cult SD
-http://maxptv.ddns.net:25461/Vania/Vania/32
-#EXTINF:-1,Telecine Cult  HD
-http://maxptv.ddns.net:25461/Vania/Vania/31
-#EXTINF:-1,Telecine Fun HD
-http://maxptv.ddns.net:25461/Vania/Vania/30
-#EXTINF:-1,Telecine Fun SD
-http://maxptv.ddns.net:25461/Vania/Vania/29
-#EXTINF:-1,Telecine Pipoca HD
-http://maxptv.ddns.net:25461/Vania/Vania/28
-#EXTINF:-1,Telecine Pipoca SD
-http://maxptv.ddns.net:25461/Vania/Vania/27
-#EXTINF:-1,Telecine Premium HD
-http://maxptv.ddns.net:25461/Vania/Vania/26
-#EXTINF:-1,Telecine Premium SD
-http://maxptv.ddns.net:25461/Vania/Vania/25
-#EXTINF:-1,Telecine Touch HD
-http://maxptv.ddns.net:25461/Vania/Vania/24
-#EXTINF:-1,Telecine Touch SD
-http://maxptv.ddns.net:25461/Vania/Vania/23
-#EXTINF:-1,TLC HD
-http://maxptv.ddns.net:25461/Vania/Vania/22
-#EXTINF:-1,TLC SD
-http://maxptv.ddns.net:25461/Vania/Vania/21
-#EXTINF:-1,TNT HD
-http://maxptv.ddns.net:25461/Vania/Vania/20
-#EXTINF:-1,TNT SD
-http://maxptv.ddns.net:25461/Vania/Vania/19
-#EXTINF:-1,TNT Series HD
-http://maxptv.ddns.net:25461/Vania/Vania/18
-#EXTINF:-1,TNT Series SD
-http://maxptv.ddns.net:25461/Vania/Vania/17
-#EXTINF:-1,Tooncast HD
-http://maxptv.ddns.net:25461/Vania/Vania/16
-#EXTINF:-1,Tooncast SD
-http://maxptv.ddns.net:25461/Vania/Vania/15
-#EXTINF:-1,TV Aparecida HD
-http://maxptv.ddns.net:25461/Vania/Vania/14
-#EXTINF:-1,TV Aparecida SD
-http://maxptv.ddns.net:25461/Vania/Vania/13
-#EXTINF:-1,Universal Channel HD
-http://maxptv.ddns.net:25461/Vania/Vania/12
-#EXTINF:-1,Universal Channel SD
-http://maxptv.ddns.net:25461/Vania/Vania/11
-#EXTINF:-1,VH1 HD
-http://maxptv.ddns.net:25461/Vania/Vania/8
-#EXTINF:-1,VH1 SD
-http://maxptv.ddns.net:25461/Vania/Vania/7
-#EXTINF:-1,Viva HD
-http://maxptv.ddns.net:25461/Vania/Vania/6
-#EXTINF:-1,Viva SD
-http://maxptv.ddns.net:25461/Vania/Vania/5
-#EXTINF:-1,Warner Bros HD
-http://maxptv.ddns.net:25461/Vania/Vania/4
-#EXTINF:-1,Warner Bros SD
-http://maxptv.ddns.net:25461/Vania/Vania/3
-#EXTINF:-1,Zoomoo HD
-http://maxptv.ddns.net:25461/Vania/Vania/2
-#EXTINF:-1,Zoomoo SD
-http://maxptv.ddns.net:25461/Vania/Vania/1
-#EXTINF:-1,Food Network HD
-http://maxptv.ddns.net:25461/Vania/Vania/333
-#EXTINF:-1,Food Network SD
-http://maxptv.ddns.net:25461/Vania/Vania/334
-#EXTINF:-1,EPTV Campinas HD Alternativo
-http://maxptv.ddns.net:25461/Vania/Vania/475
-#EXTINF:-1,EPTV Campinas HD Alternativo 2
-http://maxptv.ddns.net:25461/Vania/Vania/476
-#EXTINF:-1,SBT HD Alternativo
-http://maxptv.ddns.net:25461/Vania/Vania/477
-#EXTINF:-1,Combate HD 2
-http://maxptv.ddns.net:25461/Vania/Vania/573
-#EXTINF:-1,Band - RibeirÃ£o Preto HD
-http://maxptv.ddns.net:25461/Vania/Vania/699
-#EXTINF:-1,Band - RibeirÃ£o Preto SD
-http://maxptv.ddns.net:25461/Vania/Vania/698
-#EXTINF:-1,Globo - EPTV R Preto HD
-http://maxptv.ddns.net:25461/Vania/Vania/701
-#EXTINF:-1,Globo - EPTV R Preto SD
-http://maxptv.ddns.net:25461/Vania/Vania/700
-#EXTINF:-1,Globo - NSC TV Floripa HD
-http://maxptv.ddns.net:25461/Vania/Vania/697
-#EXTINF:-1,Desenhos Animados
-http://maxptv.ddns.net:25461/Vania/Vania/925
-#EXTINF:-1,Mr Bean 24 hrs
-https://www.youtube.com/watch?v=bjbppIHS1Ew
-#EXTINF:-1,Caverna Do DragÃ£o
-https://www.youtube.com/watch?v=dywRyiCH09k
-#EXTINF:-1,Retro Music HD
-http://maxptv.ddns.net:25461/Vania/Vania/1183
-#EXTINF:-1,Rede Minas HD
-http://maxptv.ddns.net:25461/Vania/Vania/1184
-#EXTINF:-1,TV na Ilha
-http://maxptv.ddns.net:25461/Vania/Vania/1187
-#EXTINF:-1,Gospel Cartoon
-http://maxptv.ddns.net:25461/Vania/Vania/1188
-#EXTINF:-1,Gospel Movie TV
-http://maxptv.ddns.net:25461/Vania/Vania/1189
-#EXTINF:-1,TV SÃ‰CULO 21
-http://maxptv.ddns.net:25461/Vania/Vania/1192
-#EXTINF:-1,Desenhos BÃ­blicos
-http://maxptv.ddns.net:25461/Vania/Vania/926
-#EXTINF:-1,Desenhos ClÃ¡ssicos TV
-https://www.youtube.com/watch?time_continue=10&v=GUy-JgS7eyc
-#EXTINF:-1,Galinha Pintadinha
-https://youtu.be/EA69fK4DJPk
-#EXTINF:-1,Pocoyo
-https://www.youtube.com/watch?v=uPDB5I9wfp8
-#EXTINF:-1,RedeTV HD Alternativo
-http://maxptv.ddns.net:25461/Vania/Vania/1210
-#EXTINF:-1,Combate HD Alternativo
-http://maxptv.ddns.net:25461/Vania/Vania/1304
-#EXTINF:-1,Combate SD Alternativo
-http://maxptv.ddns.net:25461/Vania/Vania/1305
-#EXTINF:-1,Discovery Channel Alternativo HD
-http://maxptv.ddns.net:25461/Vania/Vania/1380
-#EXTINF:-1,Premiere 1 HD Alternetivo
-http://maxptv.ddns.net:25461/Vania/Vania/1129
-#EXTINF:-1,Premiere 3 HD Alternetivo
-http://maxptv.ddns.net:25461/Vania/Vania/1130
-#EXTINF:-1,Premiere 4 HD Alternetivo
-http://maxptv.ddns.net:25461/Vania/Vania/1131
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Series",HBO
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/14.ts
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Series",HBO 2
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/15.ts
+#EXTINF:-1 tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Series",HBO Plus
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/18.ts
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Series",HBO Signature
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/16.ts
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Series",HBO Family
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/17.ts
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Series",Fox
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/20.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdL9GK1YCUJIpRpREHfk-jsBd_faTSU3tcsNm9Isp0K_yQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUnkdeCaRV1Ml8BK7F9hK14BN354vGkDvV3yZSdd8xGvhQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUA4SGq4vvdLg32CjQBwup0BXmizq2Yu8geDTdk-wsIkYQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETFkhZKaDbBNltMzIGzfaGsBQQ0OF0aRqa47Nsd0jGx91w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXlS6vOo40VAn6410KzA3YwBuREaVPa1CY2yURrneGvwtw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbkP-IJhGuNKh-DbjdKycCYBhXfPImYv_Q78Tjaw-uTUGA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZeq6ij-mYRHtorezdkf6EsBKEr18P7Dd3SzukFdz9uckg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESWqWaWounRBoNB6qOSg9YsBuRC8no-qsvy26OxOLEBtNQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efz4wBzxKBdLoXCqC-b_KCEBv2s7vmuU3s3xXiSr-8TgWA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXMkS1sZF6VAh4oo2ay45NwBdzmwqRRznArC0cfRFWmZsg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcpTu04Fe7NKuOB5ScGx87kBXrndl3F8T7FprO29QhICyw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ25_QdEfX9On6LkIXUiRxIB4WQ8yu5TdKnnVfj7UkV2Ig?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcEwXTH9IIhIl2vdeAsqHq0BJMcpFVxWb5lUfNwTGxwHRA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EesOjaZV1-hOsLoxJ6eiTaUBXhuzgf_EmImfw8Cww9vahQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXNDXuBWHr9BjnXhJqWSYBgBvL9T5rVCqMEcpxi5iBXqqw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeYEolBSghxLltoLAiaY1sIB6x_gth80EXMA9I0R0N5qjg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EelgsCRA0WRFgDAz5jXFv7gBCdiqUAQ8iZG8IY-z_lOGtg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXH40ppGS4pDnxkjk8B-3MgBo2Dl-CiAGtuiuvRwK0zFFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeCbDN6hfAlEpW_loYsHBi4BTciq0JDr1XtqIxoueZ1cqQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXGq_E3q749KvSqrvvtLDnoBoo_dPcfjJK9rGHQjrhqpow?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcOizEqF37ZEqC69p4iW6ckByxpmOJ3KpHk2khgvnyCnlQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERQjTAg6jVhMsWo-4j8SR1YB0Bm9nOLVm5XiC2oUN08wkw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVmPvAcaiDhMozDu8LzY00ABWMcHoSQKc3cgz3myXXr3YQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESZ5uzGsGZhOub0l1QVoSK8BK52pOS3faD3JZPSAwFQSiA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERj_l8Jx1GZArCOox5nxyaYBHxKNRsYeZ_AQJ8hUdsOz6Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eb1fLcRNT6pFmpQrIycZgBEBnLSUkeQUYrL2Cdta6obTTA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETeDZFVq19lBsBRdcA-zeCABpkhkPtu9GJB3PIy6DKtD_Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eay7Yai0In9GlqRWEoE8q0EBSDaGSwEzZr-6PllMeRkwxA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXaVDfLijbpAj7I8J-xXxrwBIhCNVuT80numwChvua3WuQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQQ0_qpw_zNArVtbYtdGKwYBL3PwzBxMqyG4r4J7SpR_VA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcqnIZ0U_8BJpeo_aOZM3fsBhIyx9pOZ3Gmx93DLyjmkww?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfIp_75Sl6JMhhiVnOURNKoBxMg38dwSalvYLGlzXZrpaw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER7h41SeqxRKgD0NUtn4mvIBRuyMWxX0-7dNRbiNjm_toQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYR4siKpaORGlqW3W_UHyWoBXFMTjSv5wk6kvEUXvS5T4g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVQioFspp2RCndZhAChrw_kBUy-dD6BEqOIYJ_3z-iPPVg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXkecTCyv5FKqCUJfyoXFxEBHTXJ3FpoySMGLL-A3igAvg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUdbJAX7SK9CsyMC2mheaxIBSfDOCdwUcyJNaLdDY804yA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES-tn-FYR6tJukzAbBdprkMBuNibYGs-j0QNmZKU3F839w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZqwXWGLYRROo7MOn4ky1xMBK_EpDLNd2xjHOq2lF-kbuw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERm6nI4XzbxOmiKRXaQLh30BbZSdQmzE4RcFRiJenTuJJg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec2r7cSFsZ1AmlOnZyvZwAUB8qr8qnmg7AClhHb6-44m1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZGkvfUBsylMi7yArrMbQZoBHJsjkJzr68W2nDnz1UWEMQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUEoo2ZW7qlCr349frWIslUB7C87mVzofzKyuQ7fhjDeRQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER_kQA_jWKFKs1Jdf5nSXGUBtXPmMDMFR1G8ArNnKGTbIw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVVFzkmNEWZJsfG_racbwPoBEb8woLZOqROZWIE8VAEyQA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ_6KUbwsDtDpYFf4MoIu8oBkNNsevZCAxqwAkjF9x72HQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbjOc6D9UbdOg92i4nYf_hwBZQAIlq8FmekQvKyXkpR4gQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESTfVBE_80hIrRkOFo5jJloB95DqrlSJ314o-aR0Z1hjdA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETyab3J8qVBAuxfP9MNwFacBn-S2tfXpoRPJ3LNxd0Z26Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERXcxs1PeGBLhjk1VVI5d6gB59gFYXRAlOOOa2EuEmob5w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET209F7FmFFHh9cI8-0Uo3EBfoFVkVZ4TUaOtH6p4U2aOw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER6NqFiz7-5Bv6RzOyVEvuEBxUPwQ8LvrSlL_vj8foqRag?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET4j0X-z43JMhmKxCw8WwngB3hO3ISn2NvJe4FZbI_rTMg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESpcse8WKWdOugiTwAOCtLYB7lmj1p3BHKS5HjjFhS9kfg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYPg20VEMYRFmTqw7-OGeGMBBe7xAXuSX2QqJrrJMERUDQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESUlRQZvgqBIkUT2i1OuhCUB8S2nQlGQ8UhF5MDze4iPWg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcePDD4Or4JKt8bEK0c1smABnoqf8VaaV4dNpRFTCOyxzw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eck9NwjBnW1HmIA4BameEI4BqcEo_HO0Hvxh8mb8Eec_ew?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWuVKFnYlltJko9mmZ2PsuABQSatN6qrEXYxRs-5r8yiyQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES6ZPrwR2spAoevwSsQ2V4EBzkDN_x0VAz-YmAAv2SCnDQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EU_2MvzA8WJBk6m81nU7XnsBnZF7Sb1HiRMKxrpa7J6xYQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVd_g4dj995BndeYdHI70sEBzlWjZSs5AxMr0OTa3YKqHQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZleV0qqOKhKlPgQgYtYcJcBN1Vs8pfMPvISF90xfZTIsg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eag7T0Xs7i9FuBqXxTv7mp4Bh-IVtzdqe7EX6nMTh36n6w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVMiMDkZHx5FnEn80etzmJIB6FgQmg7lNxvuLtEqzlYZqQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZyWViuurdlOjlNaT4Eb0LwBgcUVHXkQ2pr44NBrgEElkw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYrm4_FjiWFBtNOi255Pma0BH_Ud8DQvKIbb8HoBwb_nqA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeKBs-gVo-tDnmptm21ZjIkBiqV5BSn--dOshqFFvO5oXQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXobVEY1Z7NIr-HcUlMIxtkBpG8WxKN__OnoC2OgR8yPdQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES2di8wvt2xHpXEYVCJZN4EB6dOycaromEeCNxgYvPj40w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbGR4DbGlCVKjMVwV8yTX3ABqA4PAFc4iYu1_orpH7PY2A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efd388RWijRAhwV6NZ-iiuYBA_KGauBI3kQw5OosEe_qng?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQld01Y40PRFvOXVlBlkfrwBA8LtcXlnUdgrjly1T-Ds-w?&download=1
 
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GABRIEL LISTA
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
