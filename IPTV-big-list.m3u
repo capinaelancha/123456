@@ -1,20 +1,12 @@
 
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://bit.ly/tvolink-com" pltv-cover="https://bit.ly/tvolink-com" pltv-site="https://bit.ly/TvOlink" pltv-name="FILMES TvOlink" pltv-description="Listas iptv 2018 Filmes gratis - Tv o Link" pltv-author="TvOlink.com" pltv-email="iptv@tvolink.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgNDAwIDQwMCI+DQogIDx0aXRsZT5UdiBPbGluayAuY29tPC90aXRsZT4NCiAgPG1ldGFkYXRhPmF1dGhvcjogVHZPbGluaywgY3JlYXRlZDogMTgtMDEtMjAxOTwvbWV0YWRhdGE+DQogIDxhIHhsaW5rOmhyZWY9Imh0dHBzOi8vdHZvbGluay5jb20iIGFyaWEtbGFiZWw9ImV5ZXMiPg0KICA8Y2lyY2xlIHI9IjMwMCUiIGZpbGw9InJnYmEoMCwgMCwgMCwgMCkiICAvPg0KICA8bGluZSBzdHJva2UtbGluZWNhcD0icm91bmQiIHgxPSI1JSIgeTE9IjUwJSIgeDI9Ijk1JSIgeTI9IjUwJSIgc3R5bGU9InN0cm9rZTpyZ2IoMCwwLDApO3N0cm9rZS13aWR0aDoxMCUiIC8+DQogIDxsaW5lIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgeDE9IjUlIiB5MT0iMjUlIiB4Mj0iOTUlIiB5Mj0iMjUlIiBzdHlsZT0ic3Ryb2tlOnJnYigwLDAsMCk7c3Ryb2tlLXdpZHRoOjEwJSIgLz4NCiAgPGxpbmUgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiB4MT0iNSUiIHkxPSI3NSUiIHgyPSI5NSUiIHkyPSI3NSUiIHN0eWxlPSJzdHJva2U6cmdiKDAsMCwwKTtzdHJva2Utd2lkdGg6MTAlIiAvPg0KICA8aW1hZ2UgeGxpbms6aHJlZj0iaHR0cHM6Ly93aG9zLmFtdW5nLnVzL3Bpbmdqcy8/az1kam1pcHR2IiB4PSItMTAiIHk9Ii0xMCIgaGVpZ2h0PSIxIiB3aWR0aD0iMSIvPjwvYT4NCjwvc3ZnPg==" group-title="tvolink.com",Lista IPTV
-https://tvolink.com/iptv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvolink.com/svg" group-title="tvolink.com",Gratis
-https://tvolink.com/iptv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvolink.com/iptvON" group-title="tvolink.com",https://tvolink.com/iptv
-https://bit.ly/TvOlink
 
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",ESPAÇO CAMARA
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CANAIS DE FILMES",HBO PLUS
-https://aovivo.multicanais.com/live/hboplushd/tracks-v1a1/mono.m3u8
+https://aovivo.multicanais.com/live/hboplushd/tracks-v1a1/2019/06/10/17/22/04-06000.ts
 
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CANAIS DE FILMES",HBO FAMILY
 http://bldtv.vip:8080/live/RobertoFerreira/cMvtReKrBe/5146.m3u8
