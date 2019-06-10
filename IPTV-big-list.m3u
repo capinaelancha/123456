@@ -1,8 +1,27 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:3787
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213114_1560115874.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213118_1560115878.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213122_1560115882.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213126_1560115886.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213130_1560115890.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:4.004000,HBOTESTEHD
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/media_2500_20190609T213134_1560115894.ts?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
 
-#EXTINF:-1,HBOTESTEHD
+
+
+
+
+#EXTINF:-1,HBOTESTEHD111
 https://aovivo.multicanais.com/live/hbosignaturehd/tracks-v1a1/mono.m3u8
-#EXTINF:0,TELEMUNDO
+#EXTINF:0,HBOTESTEHD111
 https://aovivo.multicanais.com/live/hbosignaturehd/tracks-v1a1/mono.m3u8
 
 
